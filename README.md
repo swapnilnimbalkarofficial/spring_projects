@@ -1,4 +1,4 @@
-================================================Student Management System================================================
+=======================Student Management System=======================
 
 A simple Student Management System built using Java Spring Boot with Thymeleaf for the front-end. This project allows adding, updating, deleting, and viewing student details.
 ________________________________________________________________________________________________________________________
